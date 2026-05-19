@@ -1,4 +1,5 @@
-#Spis katalogow#
+# Spis katalogow
+
 1. First Steps in Java
 2. Conditional Statements
 3. Loops
